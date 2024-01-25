@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jianghong Dong, a phd candidate in digital twin, and multi-vehicle systems @Tsinghua university.
+### Hi there 👋, I'm Jianghong Dong, a phd student in digital twin, and multi-vehicle systems @Tsinghua university.
 <!--
 My research focuses on controlling multiple moving agents. More info? Check out [my website](https://kei18.github.io/).
 -->
