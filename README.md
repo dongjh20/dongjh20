@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![dongjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjh20&count_private=false&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjh20&exclude_repo=dotfiles&hide=Jupyter%20Notebook,Smalltalk,CMake,Makefile&langs_count=10&layout=compact)
+
 <!--
 **dongjh20/dongjh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
