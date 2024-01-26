@@ -3,6 +3,7 @@
 My research focuses on controlling multiple moving agents. More info? Check out [my website](https://kei18.github.io/).
 -->
 ![](https://komarev.com/ghpvc/?username=dongjh20&color=brightgreen)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dongjh20&column=7)](https://github.com/dongjh20)
 
 ![dongjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjh20&count_private=false&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjh20&exclude_repo=dotfiles&hide=Jupyter%20Notebook,Smalltalk,CMake,Makefile&langs_count=10&layout=compact)
