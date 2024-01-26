@@ -7,8 +7,8 @@ My research focuses on controlling multiple moving agents. More info? Check out 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongjh20&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dongjh20&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+<img align="center" src="[https://github-readme-stats.vercel.app/api?username=dongjh20&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjh20&exclude_repo=dotfiles&hide=Jupyter%20Notebook,Smalltalk,CMake,Makefile&langs_count=10&layout=compact)" /> |
 
-![dongjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjh20&count_private=false&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjh20&exclude_repo=dotfiles&hide=Jupyter%20Notebook,Smalltalk,CMake,Makefile&langs_count=10&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=dongjh20&color=brightgreen)
